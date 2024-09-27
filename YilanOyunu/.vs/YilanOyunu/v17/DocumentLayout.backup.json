@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|c:\\users\\90545\\source\\repos\\yilanoyunu\\yilanoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|solutionrelative:yilanoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|C:\\Users\\90545\\source\\repos\\YilanOyunu\\yilanoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|solutionrelative:yilanoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|C:\\Users\\90545\\source\\repos\\YilanOyunu\\yilanoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35542365-0D50-4BC7-93C4-780872EDF8E9}|YilanOyunu\\YilanOyunu.csproj|solutionrelative:yilanoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Program.cs",
+              "RelativeDocumentMoniker": "YilanOyunu\\Program.cs",
+              "ToolTip": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Program.cs",
+              "RelativeToolTip": "YilanOyunu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:02:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "YilanOyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Form1.cs",
+              "RelativeToolTip": "YilanOyunu\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:16:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "YilanOyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\90545\\source\\repos\\YilanOyunu\\YilanOyunu\\Form1.cs [Design]",
+              "RelativeToolTip": "YilanOyunu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:11:20.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
